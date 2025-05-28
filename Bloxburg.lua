@@ -4,4 +4,4 @@
 -- 3) Execute script, go afk.
 -- 4) Come back and enjoy the profit!
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/942f2a297ff3a965d4e785881d31ac93.lua"))() -- Made by _color3
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/121711e60d551a94070617f9e97f3bed.lua"))() -- Made by _color3
