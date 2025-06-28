@@ -1,4 +1,4 @@
---[ Put this script in your auto execute or youll get kicked
+-- Put this script in your auto execute or youll get kicked
 
 if game.placeId ~= 109983668079237 then return end
 --[[
